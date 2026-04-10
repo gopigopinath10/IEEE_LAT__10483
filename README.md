@@ -8,13 +8,13 @@
 •	Gobinath Arumugam,
 Velammal College of Engineering and Technology, Madurai
 
-•	Suresh Kumar Natarajan
-RMK College of Engineering and Technology
+•	Suresh Kumar Natarajan,
+RMK College of Engineering and Technology, Chennai
 
-•	Rajeswari Packianathan
+•	Rajeswari Packianathan,
 Velammal College of Engineering and Technology, Madurai
 
-•	Mohamed Salah Karoui
+•	Mohamed Salah Karoui,
 Higher Institute of Applied Sciences and Technology of Mateur (ISSATM), University of Carthage, Tunisia
 
 ---
@@ -38,12 +38,21 @@ This repository contains all scripts required to reproduce the simulation and me
 | `Next_measured.m` | Fig. 21 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
 | `Fext_measured.m` | Fig. 22 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
 
-
 ---
 ## Required Files
 
 - `.csv files`: Required for `.m files`. Place it in the same folder as the script.
+---
 
-• HFSS Simulation model of the Parallel Microstriplines 
+ ## Requirements
 
-• HFSS .aedt files along with the simulation and measured results .png files
+- MATLAB R2018b or later.
+- No additional toolboxes are required.
+
+---
+
+## ✉️ Contact
+
+For questions or replication of results:  
+gobigopinath10@gmail.com
+HFSS Simulation model of the Parallel Microstriplines 

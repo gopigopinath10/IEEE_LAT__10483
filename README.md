@@ -35,9 +35,6 @@ This repository contains all scripts required to reproduce the simulation and me
 | `Fext_025.m` | Fig. 14 | Presents FEXT performance of the optimized design, showing suppression of far-end interference due to improved symmetry and impedance control. |
 | `Next_comp.m` | Fig. 15 | Compares NEXT across three cases: parallel microstrip lines without guard trace, with conventional guard trace, and with the proposed patterned guard structure. Quantifies the effectiveness of the proposed design in minimizing near-end coupling. |
 | `Fext_comp.m ` | Fig. 16 | Compares FEXT for the same three configurations, demonstrating the role of guard structures in reducing far-end interference and improving signal integrity. |
-| `flywheel.m` | Fig. 17 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
-| `senales.m` | Fig. 18 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
-| ` ` | Fig. 19 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
 | `Next_measured.m` | Fig. 21 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
 | `Fext_measured.m` | Fig. 22 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
 
